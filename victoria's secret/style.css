@@ -25,14 +25,6 @@ body{
     color: rgb(28, 27, 27);
     font-family: 'Times New Roman', Times, serif;
 }
-button{
-    border-radius: 5px;
-    background-color: rgb(246, 221, 225) ;
-    height:25px;
-    width:200px;
-    font-size: 13px;
-    font-family: 'Times New Roman', Times, serif;
-}
 
 .box2{
     background-color: rgb(241, 238, 238);
@@ -64,29 +56,43 @@ button{
 }
 .mm{
     
-    margin-left:300px;
+    margin-left:400px;
 }
 .oo{
     margin-left: 10px;
 }
-.aa{
-    color: black;
-    
-}
+
 .hh{
     
-    margin-left: 190px;
+    margin-left: 250px;
 }
 .ii{
-    margin-left:80px;
+    margin-left:110px;
 }
 .pp{
    
-    margin-left:80px;
+    margin-left:110px;
 }
 .ss{
    
-    margin-left:80px;
+    margin-left:110px;
+}
+.ayb{
+    background-color: white;
+    width: 500px;
+    height:500px;
+    position: fixed;
+    z-index:-1;
+}
+#fifi{
+    background-color: black;
+    width:500px ;
+    height: 60px;
+    margin-left: 800px;
+    position: fixed;
+    z-index:-1;
+    margin-bottom: 40px;
+
 }
 .zz{
     
@@ -259,92 +265,55 @@ button{
    display: flex; 
    justify-content: space-around;
    border-radius: 20px;
+   transition: transform 0.5s;
 }
-@keyframes fadeBounce{
- 
-    0%{
-        opacity: 0;
-        transform: translateY(-200%);
-    }
-     
-    25%{
-        opacity: 1;
-        transform: translateY(0%);
-    }
-     
-    50%{
-        opacity: 1;
-        transform: translateY(-6%);
-    }
-    70%{
-        opacity: 1;
-        transform: translateY(0%);
-    }
-    80%{
-        opacity: 1;
-        transform: translateY(-6%);
-    }
-     
-    100%{
-        opacity: 1;
-        transform: translateY(0%);
-    }
-    }
+
      
 .abd1{
-    display: inline-block;
-    border-radius: 10px; 
-    animation-delay: .5s;
-    animation-name: fadeBounce;
-    animation-duration: 1s;
+    
+    border-radius: 10px;
+  
     box-shadow: 0px 3px 4px -3px;
-    opacity: 0;
-    animation-fill-mode: forwards;
+}
+.abd1:hover{
+    transform: translateY(-10px);
 }
 .abd2{
-    border-radius: 10px;
-    display: inline-block;
     border-radius: 10px; 
-    animation-delay: 1.5s;
-    animation-name: fadeBounce;
-    animation-duration: 1.5s;
+
     box-shadow: 0px 3px 4px -3px;
-    opacity: 0;
-    animation-fill-mode: forwards; 
-}
-.abd3{
-    border-radius: 10px; 
-    display: inline-block;
-    border-radius: 10px; 
-    animation-delay: 2s;
-    animation-name: fadeBounce;
-    animation-duration: 2s;
-    box-shadow: 0px 3px 4px -3px;
-    opacity: 0;
-    animation-fill-mode: forwards; 
 
 }
-.abd4{
+.abd2:hover{
+    transform: translateY(-10px);
+}
+.abd3{
+    
     border-radius: 10px; 
-    display: inline-block;
-    border-radius: 10px; 
-    animation-delay: 2.5s;
-    animation-name: fadeBounce;
-    animation-duration: 2.5s;
+   
     box-shadow: 0px 3px 4px -3px;
-    opacity: 0;
-    animation-fill-mode: forwards; 
+   
+}
+.abd3:hover{
+    transform: translateY(-10px);
+}
+.abd4{
+  
+    border-radius: 10px; 
+    box-shadow: 0px 3px 4px -3px;
+}
+.abd4:hover{
+    transform: translateY(-10px);
 }
 .abd5{
+   
     border-radius: 10px; 
-    display: inline-block;
-    border-radius: 10px; 
-    animation-delay: 3s;
-    animation-name: fadeBounce;
-    animation-duration: 3s;
+   
     box-shadow: 0px 3px 4px -3px;
-    opacity: 0;
-    animation-fill-mode: forwards; 
+  
+}
+.abd5:hover{
+    transform: translateY(-10px);
 }
 
 .smh{

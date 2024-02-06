@@ -1,0 +1,173 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color:white;
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: auto;
+}
+
+.nav{
+    background-color: rgb(246, 221, 225);
+    width:auto;
+    height:50px;
+    border-radius:5px;
+   
+   
+}
+.nn{
+    text-align: center;
+    padding-top: 15px;
+    font-size: 13px;
+    color: rgb(28, 27, 27);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.box2{
+    background-color: rgb(241, 238, 238);
+    width:1470px;
+    height:50px;
+    border-radius:5px;
+    align-items: center;
+    display:flex;  
+}
+.oth{
+    position: fixed;
+    z-index: 1;
+}
+.cc{
+    padding-left:30px;
+    font-size: 20px;
+    text-decoration: none;
+    margin-left:30px;
+
+}
+
+.bb{
+    padding-left:90px ;
+    font-size:15px;
+    text-decoration: none;
+    margin-left:50px;
+    width:40px;
+    
+}
+.mm{
+    
+    margin-left:410px;
+}
+.oo{
+    margin-left: 10px;
+}
+
+.hh{
+    
+    margin-left: 250px;
+}
+.ii{
+    margin-left:110px;
+}
+.pp{
+   
+    margin-left:110px;
+}
+.ss{
+   
+    margin-left:110px;
+}
+.ayb{
+    background-color: white;
+    width: 500px;
+    height:500px;
+    position: fixed;
+    z-index:-1;
+}
+#fifi{
+    background-color: black;
+    width:500px ;
+    height: 60px;
+    margin-left: 800px;
+    position: fixed;
+    z-index:-1;
+    margin-bottom: 40px;
+
+}
+.zz{
+    
+    width: 310px;
+    margin-left:60px;
+}
+.rr{
+    justify-content:space-around;
+    display: flex; 
+    align-items: center;
+    width:auto;
+   
+ } 
+ 
+#mr{
+    margin-top: 150px;
+    border: none;
+    font-size: 17px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.vv{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 110px;
+    
+}
+.tt{
+    width:200px;
+    height: 40px;
+    margin-top: 150px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.uu{
+    text-align:center;
+    font-size: 28px;
+}
+.bo{
+    display: flex;
+    margin-top:60px;
+    justify-content: space-around;
+}
+
+.menu{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+   font-family: 'Times New Roman', Times, serif; 
+}
+.menu:hover{
+    border-bottom:3px solid  rgb(246, 221, 225);
+}
+.ro{
+    border-bottom:2px solid  rgb(241, 238, 238);
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.smh{
+    margin-top: 30px;
+    margin-left: 30px;
+    
+}
+.hira{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: -250px;
+}
+.cnn{
+    font-size: 25px;
+   font-family: 'Times New Roman', Times, serif; 
+   margin-top: 30px;
+}
+.crc{
+    font-size: 25px;
+   font-family: 'Times New Roman', Times, serif; 
+   margin-top: 30px;
+}
