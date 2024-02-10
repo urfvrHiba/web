@@ -171,3 +171,10 @@ body{
    font-family: 'Times New Roman', Times, serif; 
    margin-top: 30px;
 }
+.hiza{
+    border-bottom:2px solid  rgb(230, 228, 228);
+    margin-top: 10px;
+    margin-left: 220px;
+    margin-right: 450px;
+}
+
