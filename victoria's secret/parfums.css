@@ -165,9 +165,9 @@ body{
 
 }
 .nameofparfum{
-    justify-content: space-evenly;
+    justify-content: space-around;
     display: flex;
-    margin-left: 30px;
+    margin-left: 50px;
     margin-top: 20px;
     font-family: 'Times New Roman', Times, serif; 
 }
@@ -194,4 +194,38 @@ body{
     margin-top: 30px;
 
 }
+.prix_cacao{
+    justify-content: space-around;
+    display: flex;
+    
+    margin-top: 3px;
+}
+.Soirée_cacao{
+    justify-content: space-around;
+    display: flex;
+    font-size: 13px;
+    margin-top: 3px;
+}
+.prix{
+    justify-content: space-around;
+    display: flex;
+    font-size: 13px;
+    margin-top: 3px;
+}
+.promo{
+    justify-content: space-around;
+    display: flex;
+    font-size: 13px;
+    margin-top: 3px;
+    color: rgb(133, 63, 63);
+}
+.stock{
+    justify-content: space-around;
+    display: flex;
+    font-size: 13px;
+    margin-top: 3px;
+}
+
+
+
 
