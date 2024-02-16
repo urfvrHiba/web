@@ -225,6 +225,13 @@ body{
     font-size: 13px;
     margin-top: 3px;
 }
+.flr{
+    justify-content: space-evenly;
+    display: flex;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
 
 
 
