@@ -231,6 +231,21 @@ body{
     margin-left: 10px;
     margin-top: 30px;
 }
+.eau_parfumee{
+    justify-content: space-around;
+    display: flex;
+    font-size: 13px;
+    margin-top: 3px;
+}
+.aeu{
+    margin-left: -70px;
+}
+.eua{
+    margin-left: -2px;
+}
+.uea{
+    margin-left: -75px;
+}
 
 
 
