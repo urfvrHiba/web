@@ -179,7 +179,7 @@ body{
 }
 .tease{
     margin-top: 40px;
-    margin-left: 180px;
+    margin-left: 130px;
 }
 .tease_parfum{
     margin-top: 20px;
@@ -282,7 +282,17 @@ body{
 }
 .bombshell{
     margin-top: 50px;
-    margin-left: 180px;
+    margin-left: 130px;
+}
+.p_bombshell{
+    margin-top: 10px;
+    text-align: center;
+}
+.bombshell_rose{
+    justify-content: space-evenly;
+    display: flex;
+    margin-left: 10px;
+    margin-top: 30px;
 }
 
 
