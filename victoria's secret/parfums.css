@@ -179,7 +179,7 @@ body{
 }
 .tease{
     margin-top: 40px;
-    margin-left: 110px;
+    margin-left: 180px;
 }
 .tease_parfum{
     margin-top: 20px;
@@ -279,6 +279,10 @@ body{
     font-size: 13px;
     margin-top: 3px;
     margin-left: 10px;
+}
+.bombshell{
+    margin-top: 50px;
+    margin-left: 180px;
 }
 
 
