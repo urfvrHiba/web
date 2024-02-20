@@ -151,3 +151,22 @@ body{
     margin-left: 30px;
     margin-right: 30px;
 }
+.pj{
+    justify-content: space-between;
+    display: flex;
+    margin-top: 30px;
+   
+}
+#fmm{
+    color: black;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif; 
+    margin-left: 100px;
+   
+}
+#art{
+    color: black;
+    font-size: 22px;
+    font-family: 'Times New Roman', Times, serif; 
+    margin-right: 70px;
+}
