@@ -172,3 +172,38 @@ body{
     margin-right: 60px;
     border-bottom: 3px solid  rgb(246, 221, 225);
 }
+.lips{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.pyj{
+    justify-content: space-around;
+    display: flex;
+    margin-top: 3px;
+}
+.name_pyj{
+    justify-content: space-around;
+    display: flex;
+    font-size: 13px;
+    margin-top: 3px;
+}
+.prix{
+    justify-content: space-around;
+    display: flex;
+    font-size: 13px;
+    margin-top: 3px;
+}
+.promo{
+    justify-content: space-around;
+    display: flex;
+    font-size: 13px;
+    margin-top: 3px;
+    color: rgb(133, 63, 63);
+}
+.stock{
+    justify-content: space-around;
+    display: flex;
+    font-size: 13px;
+    margin-top: 3px;
+}
