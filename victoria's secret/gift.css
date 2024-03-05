@@ -152,6 +152,14 @@ body{
     margin-right: 30px;
 }
 .mi{
-    margin-left:5px;
+    margin-left:10px;
     margin-top: 10px;
+}
+.bord{
+    background-color: white;
+    height: 300px;
+    width: 200px;
+    margin: 10px;
+    filter: opacity(94%);
+   border: 1px solid white;
 }
