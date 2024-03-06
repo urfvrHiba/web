@@ -481,27 +481,6 @@ body{
 .ve:hover{
     background-color: rgb(248, 235, 237);
 }
-.baba{
-    display: flex;
-    margin-top:40px;
-    justify-content: space-around;
-}
-.mama{
-    border: none;
-    width: 350px;
-    height: 70px;
-    font-family: 'Times New Roman', Times, serif; 
-    font-size: 18px;
-    border-radius: 10px;
-   
-}
-.mama:hover{
-    background-color: rgb(248, 235, 237); 
-}
-.bama{
-    margin-left: 8px;
-
-}
 .sr{
     background-color: rgb(245, 241, 241);
     width:1450px;
