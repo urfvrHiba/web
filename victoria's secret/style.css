@@ -153,33 +153,6 @@ body{
     margin-right: 30px;
 }
 
-.roro{
-    background-color: rgb(245, 227, 230);
-    width: auto;
-    height: 70px;
-    margin-top: 20px;
-    border-radius:10px;
-    display:flex;
-    align-items: center; 
-}
-.nini{
-   
-    background-color: rgb(245, 227, 230);
-    margin-left: 550px;
-    
-   
-}
-.nono{
-    margin-left: 15px;
-}
-.hoho{
-    margin-left: 5px;
-}
-.soso{
-    margin-left: 8px;
-    width: 130px;
-    height: 30px;
-}
 .Row{
     background-color: rgb(246, 221, 225);
     width: 720px;
