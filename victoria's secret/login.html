@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Victoria's Secret - Login</title>
+    <link rel="stylesheet" href="style.css"/>
+    <link rel="stylesheet" href="bootstrap.min.css"/>
+    <link rel="stylesheet" href="login.css"/> <!-- Fichier CSS pour le style spécifique à la page de connexion -->
+</head>
+<body>
+
+    <div class="login-container">
+        <div class="login-box">
+            <h2>Connexion</h2>
+            <form id="loginForm">
+                <div class="form-group">
+                    <label for="email">Adresse Email</label>
+                    <input type="email" id="email" name="email" placeholder="Entrez votre email" required>
+                </div>
+                <div class="form-group">
+                    <label for="password">Mot de Passe</label>
+                    <input type="password" id="password" name="password" placeholder="Entrez votre mot de passe" required>
+                </div>
+                <div class="form-group">
+                  <a href="index.html">  <button type="submit" class="btn">Se Connecter</button></a>
+                </div>
+                <div class="login-links">
+                    <a href="">Mot de passe oublié ?</a>
+                    <a href="client.html">Créer un compte</a>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script src="login.js"></script> 
+
+</body>
+</html>
