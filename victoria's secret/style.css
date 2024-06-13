@@ -993,21 +993,6 @@ body{
     .ve:hover{
         background-color: rgb(248, 235, 237);
     }
-    .sr{
-        background-color: rgb(245, 241, 241);
-        width:1450px;
-        height:450px;
-        border-radius:5px;
-        margin-top: 40px;
-        margin-left: 20px;
-        margin-right: 20px;
-    }
-    .sk{
-        text-align: center;
-        padding-top: 60px;
-        font-size: 40px;
-        font-family: 'Times New Roman', Times, serif;
-    }
     .mn{
     
         background-color: rgb(246, 221, 225);

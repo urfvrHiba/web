@@ -1,0 +1,34 @@
+
+const stagiaire = 
+    {
+        id:1,
+        nom:"aymane",
+        branche:"dd106",
+        age:20 
+    }
+    const stagiaires = [
+    {
+        id:1,
+        nom:"aymane",
+        branche:"dd106",
+        age:20
+        },
+        {
+            id:2,
+            nom:"abdo",
+            branche:"dd103",
+            age:21
+        }
+    ]
+
+    //FormaJSON
+    //stringify
+let stagiaireJSON = JSON.stringify(stagiaire);
+
+document.getElementById("load-data").addEventListener("click" , loadData);
+function loadData(){
+    let etudiants ;
+    let content="";
+    const request = new HMLHTTPREQUEST();
+    request
+}
